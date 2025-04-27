@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Joseph Haddad // Br3akF1xRepeat"
+title: "Joseph Haddad - Portfolio"
 permalink: /
 subtitle: |
   A Creative Space to Document My Journey.<br>Learning, Progressing, Evolving.
