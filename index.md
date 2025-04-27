@@ -1,6 +1,7 @@
 ---
 layout: splash
 title: "Br3akF1xRepeat"
+permalink: /
 subtitle: |
   Learning, Progressing, Evolving.  
   A Creative Space to Document my Journey.
