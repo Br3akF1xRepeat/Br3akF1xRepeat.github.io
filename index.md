@@ -1,10 +1,9 @@
 ---
 layout: splash
-title: "Br3akF1xRepeat"
+title: "Joseph Haddad // Br3akF1xRepeat"
 permalink: /
-subtitle: |+
-  A Creative Space to Document My Journey.
-  Learning, Progressing, Evolving.
+subtitle: |
+  A Creative Space to Document My Journey.<br>Learning, Progressing, Evolving.
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
