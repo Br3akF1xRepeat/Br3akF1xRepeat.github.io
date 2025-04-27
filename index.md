@@ -8,7 +8,7 @@ subtitle: |
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: /assets/images/header-background.jpg # (Optional: add your own background later)
+  overlay_image: /header-background.jpg # (Optional: add your own background later)
   actions:
     - label: "View Portfolio"
       url: "/portfolio/"
