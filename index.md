@@ -2,9 +2,9 @@
 layout: splash
 title: "Br3akF1xRepeat"
 permalink: /
-subtitle: |
-  Learning, Progressing, Evolving.  
-  A Creative Space to Document my Journey.
+subtitle: |+
+  A Creative Space to Document My Journey.
+  Learning, Progressing, Evolving.
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
