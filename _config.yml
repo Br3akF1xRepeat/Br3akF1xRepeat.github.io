@@ -17,11 +17,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "Br3akF1xRepeat"
+title                    : "Joseph Haddad // Br3akF1xRepeat"
 title_separator          : "-"
 subtitle                 : |
-  Learning, Progressing, Evolving.
-  A Creative Space to Document my Journey.
+  A Creative Space to Document my Journey.<br>Learning, Progressing, Evolving.
 name                     : "Joseph Haddad"
 description              : "An amazing website."
 url                      : "https://br3akf1xrepeat.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
