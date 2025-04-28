@@ -26,6 +26,8 @@ title                    : "// Br3akF1xRepeat"
 title_separator          : "-"
 subtitle                 : |
   A Creative Space to Document my Journey.<br>Learning, Progressing, Evolving.
+navigation:
+  enabled: true
 name                     : "Joseph Haddad"
 description              : "An amazing website."
 url                      : "https://br3akf1xrepeat.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
