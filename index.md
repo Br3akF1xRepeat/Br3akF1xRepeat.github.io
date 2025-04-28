@@ -21,4 +21,5 @@ intro:
 {: .text-center}
 Welcome to **Br3akF1xRepeat** — a space where breaking, fixing, and repeating is part of the learning journey.
 
+{: .text-center}
 Explore my [Portfolio](/portfolio/), browse my [Blog](/blog/), or check out the [Resources](/resources/) I'm building along the way.
