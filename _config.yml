@@ -114,7 +114,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "Joseph Haddad/Br3akF1xRepeat"
+  name             : |
+    Joseph Haddad
+    Br3akF1xRepeat
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Believer | Life-Long Learner | Cybersecurity Enthusiast"
   location         : "East Tennessee"
