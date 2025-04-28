@@ -17,6 +17,8 @@ header:
 excerpt: "Cybersecurity Journey - Building, Learning, Growing."
 intro: 
   - excerpt: "This site documents my exploration of cybersecurity, scripting, and creative problem-solving."
+
+# First row of tiles (row 1)
 feature_row:
   - image_path: /assets/images/about-icon.png
     alt: "About"
@@ -39,6 +41,8 @@ feature_row:
     btn_label: "Contact Me"
     btn_class: "btn--primary"
 
+# Second row of tiles (row 2)
+feature_row2:
   - image_path: /assets/images/portfolio-icon.png
     alt: "Portfolio"
     title: "Portfolio"
@@ -59,6 +63,7 @@ feature_row:
     url: "/support/"
     btn_label: "Support My Work"
     btn_class: "btn--primary"
+breadcrumbs: true
 ---
 
 {: .text-center}
@@ -68,5 +73,8 @@ Welcome to **Br3akF1xRepeat** — a space where breaking, fixing, and repeating 
 Explore my [Portfolio](/portfolio/), browse my [Blog](/blog/), or check out the [Resources](/resources/) I'm building along the way.
 
 {: .feature_row}
-{% include feature_row id="home_tiles" type="center" %}
+{% include feature_row type="center" %}
+
+{: .feature_row}
+{% include feature_row id="feature_row2" type="center" %}
 
