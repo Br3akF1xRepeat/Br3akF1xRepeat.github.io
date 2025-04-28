@@ -1,1 +1,59 @@
+# main links
+# main:
+  #- title: "Quick-Start Guide"
+  #  url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  # - title: "About"
+  #   url: https://mmistakes.github.io/minimal-mistakes/about/
+  # - title: "Sample Posts"
+  #   url: /year-archive/
+  # - title: "Sample Collections"
+  #   url: /collection-archive/
+  # - title: "Sitemap"
+  #   url: /sitemap/
+main:
+  - title: "Home"
+    url: "/"
 
+  - title: "About"
+    url: "/about/"
+
+  - title: "Blog"
+    url: "/blog/"
+
+  - title: "Contact"
+    url: "/contact/"
+    children:
+      - title: "Direct"
+        url: "/contact/direct/"
+      - title: "Socials"
+        url: "/contact/socials/"
+
+  - title: "Portfolio"
+    url: "/portfolio/"
+    children:
+      - title: "Projects"
+        url: "/portfolio/projects/"
+      - title: "Write-Ups"
+        url: "/portfolio/write-ups/"
+      - title: "Scripts"
+        url: "/portfolio/scripts/"
+
+  - title: "Resources"
+    url: "/resources/"
+    children:
+      - title: "Library"
+        url: "/resources/library/"
+      - title: "Sites"
+        url: "/resources/sites/"
+      - title: "Tools"
+        url: "/resources/tools/"
+      - title: "Videos"
+        url: "/resources/videos/"
+
+  - title: "Support"
+    url: "/support/"
+    children:
+      - title: "Support Me"
+        url: "/support/support-me/"
+      - title: "Support You"
+        url: "/support/support-you/"
