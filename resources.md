@@ -1,22 +1,15 @@
 ---
 layout: single
-title: "Resources / Tools"
+title: "Resources:"
 permalink: /resources/
 author_profile: true
+breadcrumbs: true
 ---
 
-### Study Resources
+### Resources:
 
-- [TryHackMe Learning Paths](https://tryhackme.com/)
-- [HackTheBox Academy](https://academy.hackthebox.com/)
-- [Awesome Security List](https://github.com/sbilly/awesome-security)
+"Welcome to my Resources page. It is currently under development. Please check back later for updates."
 
-### Tools I Use
-
-- Burp Suite Community Edition
-- Nmap, Nikto, Dirb
-- PowerShell, Bash Scripting
-- VSCode for editing
 
 ---
 *More resources coming soon!*

@@ -1,14 +1,14 @@
 ---
 layout: single
-title: "Portfolio"
-permalink: /portfolio/
+title: "Portfolio: Scripts"
+permalink: /portfolio/scripts/
 author_profile: true
 breadcrumbs: true
 ---
 
-### Portfolio:
+### Portfolio: Scripts I've developed
 
-"Welcome to my Portfolio page. It is currently under development. Please check back later for updates."
+"Welcome to my Scripts Portfolio page. It is currently under development. Please check back later for updates."
 
 **(Future examples:)**
 

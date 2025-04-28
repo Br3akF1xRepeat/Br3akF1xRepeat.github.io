@@ -1,7 +1,7 @@
 ---
 layout: single
-title: "Contact"
-permalink: /contact/
+title: "Contact Me Directly"
+permalink: /contact/direct/
 author_profile: true
 breadcrumbs: true
 ---
