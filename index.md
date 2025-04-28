@@ -19,7 +19,7 @@ intro:
   - excerpt: "This site documents my exploration of cybersecurity, scripting, and creative problem-solving."
 
 # First row of tiles (row 1)
-feature_row:
+feature_row1:
   - image_path: /assets/images/about-icon.png
     alt: "About"
     title: "About"
@@ -63,6 +63,7 @@ feature_row2:
     url: "/support/"
     btn_label: "Support My Work"
     btn_class: "btn--primary"
+    
 breadcrumbs: true
 ---
 
@@ -73,7 +74,7 @@ Welcome to **Br3akF1xRepeat** — a space where breaking, fixing, and repeating 
 Explore my [Portfolio](/portfolio/), browse my [Blog](/blog/), or check out the [Resources](/resources/) I'm building along the way.
 
 {: .feature_row}
-{% include feature_row type="center" %}
+{% include feature_row id="feature_row1" type="center" %}
 
 {: .feature_row}
 {% include feature_row id="feature_row2" type="center" %}
