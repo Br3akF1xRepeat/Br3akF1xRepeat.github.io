@@ -69,4 +69,4 @@ Explore my [Portfolio](/portfolio/), browse my [Blog](/blog/), or check out the 
 
 {: .feature_row}
 {% include feature_row id="home_tiles" type="center" %}
----
+
