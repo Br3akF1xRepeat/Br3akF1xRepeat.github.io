@@ -76,5 +76,5 @@ Explore my [Portfolio](/portfolio/), browse my [Blog](/blog/), or check out the 
 
 {% include feature_row id="feature_row1" %}
 
-{% include feature_row id="feature_row2" type="center" %}
+{% include feature_row id="feature_row2" %}
 
