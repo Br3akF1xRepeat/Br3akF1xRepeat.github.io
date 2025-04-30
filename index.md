@@ -74,9 +74,9 @@ Welcome to **Br3akF1xRepeat** — a space where breaking, fixing, and repeating 
 {: .text-center}
 Explore my [Portfolio](/portfolio/), browse my [Blog](/blog/), or check out the [Resources](/resources/) I'm building along the way.
 
-{: .feature_row}
+# {: .feature_row}
 {% include feature_row id="feature_row1" type="center" %}
 
-{: .feature_row}
+# {: .feature_row}
 {% include feature_row id="feature_row2" type="center" %}
 
