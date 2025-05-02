@@ -9,14 +9,15 @@ header:
   overlay_filter: "0.5"
   overlay_image: /assets/images/header-background.jpg
   show_overlay_nav: true
-  actions:
-    - label: "View Portfolio"
-      url: "/portfolio/"
-    - label: "Visit Blog"
-      url: "/blog/"
-excerpt: "Cybersecurity Journey - Building, Learning, Growing."
-intro: 
-  - excerpt: "This site documents my exploration of cybersecurity, scripting, and creative problem-solving."
+#  actions:
+#   - label: "View Portfolio"
+#      url: "/portfolio/"
+#    - label: "Visit Blog"
+#      url: "/blog/"
+excerpt: |
+  Hello, Welcome!<br>I created this site to showcase and share my work.<br>I hope you'll find something useful - whether it's<br>  Information (Put It To Use)<br>    Inspiration (Get Creative With It)<br>      Motivation (Carpe Diem, Carpe Noctem, Carpe Omnia)
+# intro: 
+#  - excerpt: "This site documents my exploration of cybersecurity, scripting, and creative problem-solving."
 
 # First row of tiles (row 1)
 feature_row1:
