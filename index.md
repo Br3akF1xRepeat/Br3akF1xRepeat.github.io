@@ -2,8 +2,7 @@
 layout: splash
 title: "Portfolio: Joseph Haddad"
 permalink: /
-subtitle: |
-  A Creative Space to Document My Journey.<br>Learning, Progressing, Evolving.  
+subtitle: 
 header:
   overlay_color: "#000"
   overlay_filter: "0.5"
