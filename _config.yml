@@ -17,10 +17,10 @@ minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "default"
 # Site Settings
 locale                   : "en-US"
 rtl                      : # true, false (default) # turns direction of the page into right to left for RTL languages
-title                    : "// Br3akF1xRepeat"
+title                    : "// Br3ak.F1x.Repeat"
 title_separator          : "-"
 subtitle                 : |
-  A Creative Space to Document my Journey.<br>Learning, Progressing, Evolving.
+  A Creative Space to Document My Journey
 navigation:
   enabled: true
   style: default
@@ -121,7 +121,7 @@ author:
     Joseph Haddad
     Br3akF1xRepeat
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "Believer | Life-Long Learner | Cybersecurity Enthusiast"
+  bio              : "Believer | Life-Long Learner | Technology Enthusiast"
   location         : "East Tennessee"
   email            : "email.br3ak.f1x.repeat@gmail.com"
   links:
