@@ -14,7 +14,8 @@ header:
 #    - label: "Visit Blog"
 #      url: "/blog/"
 excerpt: |
-  Hello, Welcome!<br>I created this site to showcase and share my work.<br>I hope you'll find something useful - whether it's<br>  Information (Put It To Use)<br>    Inspiration (Get Creative With It)<br>      Motivation (Carpe Diem, Carpe Noctem, Carpe Omnia)
+  ### "Progress is not achieved by luck or accident, but by working on yourself daily."
+  ### *-Epictetus*
 # intro: 
 #  - excerpt: "This site documents my exploration of cybersecurity, scripting, and creative problem-solving."
 
