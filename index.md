@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Portfolio:\ Joseph Haddad"
+title: "Portfolio::Joseph Haddad"
 permalink: /
 subtitle: 
 header:
