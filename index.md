@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Portfolio: Joseph Haddad"
+title: "Portfolio:\ Joseph Haddad"
 permalink: /
 subtitle: 
 header:
@@ -69,11 +69,11 @@ breadcrumbs: true
 ---
 
 
-# {: .text-center}
-# Welcome to **Br3akF1xRepeat** — a space where breaking, fixing, and repeating is part of the learning journey.
+#  {: .text-center}
+#  Welcome to **Br3akF1xRepeat** — a space where breaking, fixing, and repeating is part of the learning journey.
 
-# {: .text-center}
-# Explore my [Portfolio](/portfolio/), browse my [Blog](/blog/), or check out the [Resources](/resources/) I'm building along the way.
+#  {: .text-center}
+#  Explore my [Portfolio](/portfolio/), browse my [Blog](/blog/), or check out the [Resources](/resources/) I'm building along the way.
 
 {% include feature_row id="feature_row1" %}
 
