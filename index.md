@@ -14,8 +14,9 @@ header:
 #    - label: "Visit Blog"
 #      url: "/blog/"
 excerpt: |
-  ### "Progress is not achieved by luck or accident, but by working on yourself daily."
-  ### *-Epictetus*
+  ### "Progress is Not Achieved by Luck or Accident, But By Working On Yourself Daily."
+  #### *-Epictetus*
+  ##### "Memento Vivere"
 # intro: 
 #  - excerpt: "This site documents my exploration of cybersecurity, scripting, and creative problem-solving."
 
