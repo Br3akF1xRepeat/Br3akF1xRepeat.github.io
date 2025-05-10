@@ -2,7 +2,7 @@
   "name": "portfolio-site",
   "version": "1.0.0",
   "scripts": {
-    "build:css": "postcss src/css/styles.css -o docs/styles.css",
+    "build:css": "npx postcss src/css/styles.css -o docs/styles.css",
     "build": "npm run build:css && npx eleventy"
   },
   "devDependencies": {
