@@ -1,4 +1,4 @@
-name: Build and Deploy Eleventy + Tailwind
+name: Build and Deploy Eleventy + Tailwind to GitHub Pages
 
 on:
   push:
@@ -18,7 +18,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout
+      - name: Checkout source code
         uses: actions/checkout@v4
 
       - name: Setup Node.js
@@ -29,10 +29,10 @@ jobs:
       - name: Install dependencies
         run: npm install
 
-      - name: Build site
+      - name: Build Eleventy + Tailwind site
         run: npm run build
 
-      - name: Upload artifact
+      - name: Upload build output (for Pages)
         uses: actions/upload-pages-artifact@v2
         with:
           path: ./docs
