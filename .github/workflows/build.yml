@@ -26,17 +26,11 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: latest
+          node-version: 18
           cache: 'npm'
-          
-      - name: List root directory contents
-        run: ls -la
-
-      - name: Check for package-lock.json
-        run: test -f package-lock.json && echo "Lockfile found" || echo "Lockfile missing"
       
       - name: Install dependencies
-        run: npm install
+        run: npm ci
 
       - name: Build Eleventy + Tailwind site
         run: npm run build
