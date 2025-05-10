@@ -35,6 +35,12 @@ jobs:
       - name: Build Eleventy + Tailwind site
         run: npm run build
 
+      - name: Upload package-lock.json as artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: lockfile
+          path: package-lock.json
+
       - name: Upload build output (for Pages)
         uses: actions/upload-pages-artifact@v3
         with:
