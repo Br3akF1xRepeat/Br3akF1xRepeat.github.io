@@ -1,1 +1,1 @@
-Trigger A Change - Click, Click, Boom!
+Trigger Change - Click, Click, Boom!
